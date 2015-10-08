@@ -1,0 +1,15 @@
+2015-10-08 19:19:31,608 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/nbhat/git/allenai/allenai/pom.xml
+2015-10-08 19:19:31,944 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.airocks:allenai:0.0.1-SNAPSHOT @ /home/nbhat/git/allenai/allenai/pom.xml.
+2015-10-08 19:19:32,153 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /allenai/src/main/java
+2015-10-08 19:19:32,154 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /allenai/src/test/java
+2015-10-08 19:19:32,446 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-10-08 19:19:32,892 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.airocks:allenai:0.0.1-SNAPSHOT @ /home/nbhat/git/allenai/allenai/pom.xml.
+2015-10-08 19:19:32,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 19:19:32,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nbhat/git/allenai/allenai/src/main/resources
+2015-10-08 19:19:32,981 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 19:19:32,981 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nbhat/git/allenai/allenai/src/test/resources
+2015-10-08 19:19:33,517 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.airocks:allenai:0.0.1-SNAPSHOT @ /home/nbhat/git/allenai/allenai/pom.xml.
+2015-10-08 19:19:34,099 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 19:19:34,099 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nbhat/git/allenai/allenai/src/main/resources
+2015-10-08 19:19:34,100 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 19:19:34,100 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nbhat/git/allenai/allenai/src/test/resources
